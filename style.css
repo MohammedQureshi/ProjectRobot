@@ -1,0 +1,21 @@
+body {
+	background-color: #EEEEEE;
+}
+h1{
+	font-family: 'Damion', cursive;
+	font-size: 100px;
+}
+h2{
+	font-family: Arial;
+	font-size: 20px;
+	position: static;
+	text-align: right;
+	color: black;
+}
+.innerBody {
+	width: 1000px;
+	margin: auto;
+}
+.logo {
+	width: 440px;
+}
